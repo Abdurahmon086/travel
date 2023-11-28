@@ -1,5 +1,5 @@
 <template>
-  <header class="absolute top-0 left-0 z-50  w-full">
+  <header class="absolute top-0 left-0 z-50 w-full">
     <div
       class="container mx-auto h-16 flex items-center justify-between border-b-[1px] border-white"
     >
@@ -15,7 +15,9 @@
         <ul class="flex items-center gap-10">
           <li class=""><a href="#" class="text-[14px]"> О компании </a></li>
           <li class=""><a href="#" class="text-[14px]"> Проекты </a></li>
-          <li class=""><a href="#" class="text-[14px]"> Преимущества покупки </a></li>
+          <li class="">
+            <a href="#" class="text-[14px]"> Преимущества покупки </a>
+          </li>
           <li class=""><a href="#" class="text-[14px]"> Контакты </a></li>
         </ul>
       </nav>
