@@ -3,7 +3,7 @@
     class="fixed backdrop-blur-sm bg-[#00000063] top-0 left-0 z-50 w-full"
   >
     <div
-      class="container mx-auto h-16 flex items-center justify-between border-b-[1px] border-white"
+      class="container1 mx-auto h-16 flex items-center justify-between border-b-[1px] border-white"
     >
       <a href="/" class="flex items-center gap-3">
         <img
@@ -31,7 +31,7 @@
   </main>
   <footer>
     <div class="bg-[#403f3f]">
-      <div class="container container1 mx-auto px-5">
+      <div class=" container1 mx-auto px-5">
         <div class="flex justify-between mb-20 pt-16">
           <div class="flex gap-3">
             <a href="#">

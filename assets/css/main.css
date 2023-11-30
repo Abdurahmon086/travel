@@ -13,3 +13,9 @@ body {
     font-family: 'HelveticaNeue', Arial, sans-serif;
     font-weight: 400;
 }
+
+.container1 {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
