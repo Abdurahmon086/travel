@@ -168,7 +168,7 @@
     </div>
   </section>
   <section class="pt-24">
-    <div class="container1">
+    <div class="">
       <h2 class="text-[#161616] text-[30px] text-center">
         Работаем напрямую с застройщиками ОАЭ
       </h2>
@@ -777,13 +777,6 @@
   </section>
   <section class="bg-[#F0EEEE] pt-[80px]">
     <div class="container1">
-      <div class="flex flex-col items-center">
-        <button
-          class="text-white text-base font-sans font-medium bg-[#403f3f] rounded-md outline-none cursor-pointer w-[250px] h-[50px] hover:bg-[#cca969]"
-        >
-          Подобрать квартиру онлайн
-        </button>
-      </div>
       <div class="flex justify-between mt-52">
         <div>
           <h2
